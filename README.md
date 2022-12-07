@@ -51,3 +51,49 @@ I chose the logistic regression model as the better model due to the higher accu
 
 While defining happiness and attaining it is a challenge, I hope this research provided some guidance in doing so. Based on the models, the most important factors that affect happiness are GDP per capita, Freedom to make life choices, Health life expectancy, and Perceptions of corruption in that order. It seems like factors such as where you live affect happiness more than the other factors such as Social support and Generosity. When focus shifts to being happier than the average, the most important factors were Social support and GDP per capita. This shows that to be happier than the average, Social support plays more of a factor than directly affecting happiness. Even then, GDP per capita plays a significant part in both scenarios. 
 While this goes against the old saying, “you can’t buy happiness”, the models and data shows otherwise. While you can’t directly buy happiness with money, it certainly affects it. 
+
+## Appendix
+Figure 1: Dataset
+
+![Picture1](https://user-images.githubusercontent.com/103864579/206271846-51db1482-d8c5-469b-825f-a9f918597b0e.jpg)
+
+Figure 2: Pairwise Scatterplot
+
+![Picture2](https://user-images.githubusercontent.com/103864579/206272157-9df10540-45b9-4664-8108-cfc2fcab4c7a.png)
+
+Figure 3: Decision Tree 
+
+![Picture3](https://user-images.githubusercontent.com/103864579/206272258-3c7c1d63-04e3-4dc6-b195-46aab20aee39.png)
+
+Figure 4: Random Forest
+
+![Picture4](https://user-images.githubusercontent.com/103864579/206272260-b25d282c-4d48-4ee7-97b8-b2b9082351a4.png)
+
+Figure 5: Classification Tree
+
+![Picture5](https://user-images.githubusercontent.com/103864579/206272261-b9c1f6bb-2df5-42b4-9ae5-b190903c5dc6.png)
+
+Figure 6: Correlation Plot
+
+![Picture6](https://user-images.githubusercontent.com/103864579/206272262-7bafb1c9-192c-4095-8f5b-3d7ffb9b6ffa.png)
+
+Figure 7: Linear Regression results
+
+![Picture7](https://user-images.githubusercontent.com/103864579/206272264-45749e04-1469-4f04-821c-89c7c05b1099.png)
+
+Figure 8: Regression model comparison
+
+![Picture8](https://user-images.githubusercontent.com/103864579/206272266-c8618a2d-f987-4f8c-807d-6e6f8b59d313.png)
+
+Figure 9: Logistic regression results
+
+![Picture9](https://user-images.githubusercontent.com/103864579/206272267-4605d056-4bd8-4925-83b5-d1dc65dfe7b7.png)
+
+Figure 10: Logistic Regression Odds Ratio:
+
+![Picture10](https://user-images.githubusercontent.com/103864579/206272268-d75ffba1-ba49-4ef6-89b7-d371677db0f3.png)
+
+Figure 11: Classification model comparison
+
+![Picture11](https://user-images.githubusercontent.com/103864579/206272270-94ce82a5-d4fd-4454-966b-c0313338cfba.png)
+
